@@ -4,7 +4,7 @@ A responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**. This 
 
 ## 🚀 Live Demo
 
-> Add your GitHub Pages or deployment link here.
+> https://clone-jf0c.onrender.com
 
 ## 📸 Preview
 
