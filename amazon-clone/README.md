@@ -97,7 +97,7 @@ git clone https://github.com/your-username/amazon-clone.git
 
 **Ishan Kumar**
 
-* GitHub: https://github.com/your-username
+* GitHub:https://github.com/ishankumar1232
 
 ---
 
